@@ -26,4 +26,4 @@ Once that's done, you can run the app by entering ```npm start```
 In order to utilize this app, the user must have a MySQL account and Insomia installed on their local machine.
 
 ## Demo
-Video walkthrough can be found [here](./video/Untitled_%20Mar%2027%2C%202022%2010_58%20PM.mp4).
+Video walkthrough can be found [here](./video/Untitled_%20Mar%2027%2C%202022%2010_58%20PM.zip).
